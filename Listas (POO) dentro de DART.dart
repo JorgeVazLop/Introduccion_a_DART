@@ -1,4 +1,4 @@
-//Ejemplo de Colecciones POO en DART
+//Ejemplo de Colecciones(Listas) POO en DART
 class Persona {
   String nombre = "";
 }
